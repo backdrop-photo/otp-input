@@ -86,10 +86,6 @@ export default class OTPInputView extends Component<
     return code === undefined ? innerDigits : code.split("");
   };
 
-  private handleKeyboardDidHide = () => {
-    this.blurAllFields();
-  };
-
   private notifyCodeChanged = () => {
     const { digits } = this.state;
     const code = digits.join("");
