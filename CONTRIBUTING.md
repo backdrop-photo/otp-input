@@ -1,6 +1,6 @@
 # Introduction
 
-Thank you for considering contributing to `@balogun/react-native-otp-input`. It's people like you that make the library better.
+Thank you for considering contributing to `@backdrop-photo/react-native-otp-input`. It's people like you that make the library better.
 
 # Ways to Contribute
 

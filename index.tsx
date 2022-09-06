@@ -1,5 +1,5 @@
 /// <reference path="index.d.ts" />
-import { InputProps, OTPInputViewState } from "@balogun/react-native-otp-input";
+import { InputProps, OTPInputViewState } from "@backdrop-photo/react-native-otp-input";
 import React, { Component } from "react";
 import {
   View,
