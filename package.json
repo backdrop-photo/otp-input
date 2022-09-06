@@ -12,7 +12,6 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
     "build": "tsc",
-    "prepare": "yarn build"
   },
   "jest": {
     "preset": "react-native",
