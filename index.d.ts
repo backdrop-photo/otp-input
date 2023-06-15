@@ -1,8 +1,8 @@
-/* typescript declaration file created for @balogun/react-native-otp-input
+/* typescript declaration file created for @backdrop-photo/react-native-otp-input
  * created by: Eric Dao, Becky Wu from TTTStudios
  */
 
-declare module "@balogun/react-native-otp-input" {
+declare module "@backdrop-photo/react-native-otp-input" {
   import * as React from "react";
   import { TextStyle, ViewStyle } from "react-native";
 
